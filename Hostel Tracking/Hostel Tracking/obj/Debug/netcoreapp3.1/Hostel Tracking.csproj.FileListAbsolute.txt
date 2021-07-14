@@ -1,0 +1,32 @@
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\netcoreapp3.1\Hostel Tracking.exe
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\netcoreapp3.1\Hostel Tracking.deps.json
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\netcoreapp3.1\Hostel Tracking.runtimeconfig.json
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\netcoreapp3.1\Hostel Tracking.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\netcoreapp3.1\Hostel Tracking.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\netcoreapp3.1\Hostel Tracking.pdb
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel Tracking.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel_Tracking.Properties.Resources.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel Tracking.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel Tracking.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel Tracking.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel Tracking.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel Tracking.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel Tracking.pdb
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel Tracking.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel_Tracking.frmNewCustomer.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel_Tracking.frmAdminLogin.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel_Tracking.frmRooms.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel Tracking.csproj.CopyComplete
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel_Tracking.frmCustomers.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel_Tracking.btnWeatherSit.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel_Tracking.frmIncomeExpense.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel_Tracking.frmVisitor.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel_Tracking.frmVisitorControl.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel_Tracking.frmUpdatePass.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\netcoreapp3.1\Hostel_Tracking.frmCustomerFeedbacks.resources

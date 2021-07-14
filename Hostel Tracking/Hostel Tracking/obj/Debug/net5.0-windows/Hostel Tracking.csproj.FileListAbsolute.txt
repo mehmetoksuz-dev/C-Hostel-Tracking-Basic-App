@@ -1,0 +1,32 @@
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\Hostel Tracking.exe
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\Hostel Tracking.deps.json
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\Hostel Tracking.runtimeconfig.json
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\Hostel Tracking.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\Hostel Tracking.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\ref\Hostel Tracking.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\Hostel Tracking.pdb
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel Tracking.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel_Tracking.frmAdminLogin.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel_Tracking.frmCustomers.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel_Tracking.btnWeatherSit.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel_Tracking.frmIncomeExpense.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel_Tracking.frmNewCustomer.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel_Tracking.frmRadio.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel_Tracking.frmRooms.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel_Tracking.Properties.Resources.resources
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel Tracking.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel Tracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel Tracking.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel Tracking.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel Tracking.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel Tracking.csproj.CopyComplete
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel Tracking.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\ref\Hostel Tracking.dll
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel Tracking.pdb
+C:\Users\mehme\source\repos\Hostel Tracking\Hostel Tracking\obj\Debug\net5.0-windows\Hostel Tracking.genruntimeconfig.cache
